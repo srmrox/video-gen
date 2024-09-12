@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e#p0tg&+p(5h!kezmg!%c-k*z4mqnvf(s%)j+dtv^r*xn_g-)w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dervaish.hsgroup.app']
 
 
 # Application definition
