@@ -3,6 +3,7 @@ layout_name,landscape-1,,,,,,,,,,,,
 layout_type,landscape,,,,1920,1080,,,,,,,
 layout_height,1080,,,,,,,,,,,,
 layout_width,1920,,,,,,,,,,,,
+layout_fps,24,,,,,,,,,,,,
 layout_bgcolor,,,,,,,,,,17,51,0,255
 image,underglow,underglow.png,-48,397,1077,287,,,,,,,
 image,logo,logo.png,313,33,354,460,,,,,,,
