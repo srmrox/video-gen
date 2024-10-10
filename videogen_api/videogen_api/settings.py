@@ -26,8 +26,6 @@ SECRET_KEY = 'django-insecure-e#p0tg&+p(5h!kezmg!%c-k*z4mqnvf(s%)j+dtv^r*xn_g-)w
 DEBUG = True
 
 ALLOWED_HOSTS = ['dervaish-api.hsgroup.app']
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
 
 # Application definition
 
